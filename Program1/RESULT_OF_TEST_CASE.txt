@@ -1,0 +1,115 @@
+How many video games can your libary hold? What would you like to do?
+1.	Load video game from file.
+2.	Save video game to a file.
+3.	Add a video game.
+4.	Remove video game.
+5.	Display all video games.
+6.	Remove ALL video games from this libary and end program.
+CHOOSE 1-6: What is the name of the file that you want to load?
+File not found.
+What would you like to do?
+1.	Load video game from file.
+2.	Save video game to a file.
+3.	Add a video game.
+4.	Remove video game.
+5.	Display all video games.
+6.	Remove ALL video games from this libary and end program.
+CHOOSE 1-6: What is the name of the file that you want to load?
+The Witcher 3: Wild Hunt
+: 
+RELEASING MEMORY FOR THIS Text object:  The Witcher 3: Wild Hunt
+ was added to the array.
+God of War
+: 
+RELEASING MEMORY FOR THIS Text object:  God of War
+ was added to the array.
+Chrono Trigger
+: 
+RELEASING MEMORY FOR THIS Text object:  Chrono Trigger
+ was added to the array.
+Super Mario Bros.
+: 
+RELEASING MEMORY FOR THIS Text object:  Super Mario Bros.
+ was added to the array.
+Super Smash Bros. Ultimate
+: 
+RELEASING MEMORY FOR THIS Text object:  Super Smash Bros. Ultimate
+ was added to the array.
+Call of Duty: Advanced Warfare
+: 
+RELEASING MEMORY FOR THIS Text object:  Call of Duty: Advanced Warfare
+ was added to the array.
+Luigi's Mansion 3
+: 
+RELEASING MEMORY FOR THIS Text object:  Luigi's Mansion 3
+ was added to the array.
+The Legend of Zelda: Breadth of the Wild
+: 
+RELEASING MEMORY FOR THIS Text object:  The Legend of Zelda: Breadth of the Wild
+ was added to the array.
+The Legend of Zelda: Twilight Princess
+: 
+RELEASING MEMORY FOR THIS Text object:  The Legend of Zelda: Twilight Princess
+ was added to the array.
+Zumba Fitness Rush
+: 
+RELEASING MEMORY FOR THIS Text object:  Zumba Fitness Rush
+ was added to the array.
+The Sims
+: 
+RELEASING MEMORY FOR THIS Text object:  The Sims
+ was added to the array.
+The Elder Scrolls V: Skyrim
+: 
+RELEASING MEMORY FOR THIS Text object:  The Elder Scrolls V: Skyrim
+ was added to the array.
+Just Dance 2020
+: 
+RELEASING MEMORY FOR THIS Text object:  Just Dance 2020
+ was added to the array.
+World of Warcraft
+: 
+RELEASING MEMORY FOR THIS Text object:  World of Warcraft
+ was added to the array.
+Pitfall!
+: 
+RELEASING MEMORY FOR THIS Text object:  Pitfall!
+ was added to the array.
+Barbie
+: 
+RELEASING MEMORY FOR THIS Text object:  Barbie
+ was added to the array.
+Bump n Jump
+: 
+RELEASING MEMORY FOR THIS Text object:  Bump n Jump
+ was added to the array.
+Frogger
+: 
+RELEASING MEMORY FOR THIS Text object:  Frogger
+ was added to the array.
+Silent Hill
+: 
+RELEASING MEMORY FOR THIS Text object:  Silent Hill
+ was added to the array.
+Kirby's Adventure
+: 
+RELEASING MEMORY FOR THIS Text object:  Kirby's Adventure
+ was added to the array.
+All games from twenty_games.txt have been added. 
+20 game(s) have been added to the library.
+What would you like to do?
+1.	Load video game from file.
+2.	Save video game to a file.
+3.	Add a video game.
+4.	Remove video game.
+5.	Display all video games.
+6.	Remove ALL video games from this libary and end program.
+CHOOSE 1-6: What is the name of the file you that you want to save to?
+FILENAME: What would you like to do?
+1.	Load video game from file.
+2.	Save video game to a file.
+3.	Add a video game.
+4.	Remove video game.
+5.	Display all video games.
+6.	Remove ALL video games from this libary and end program.
+CHOOSE 1-6: What is the title of the game? 
